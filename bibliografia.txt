@@ -1,0 +1,10 @@
+https://developer.ibm.com/tutorials/l-network-filesystems/
+https://en.wikipedia.org/wiki/Open_Network_Computing_Remote_Procedure_Call
+https://en.wikipedia.org/wiki/Network_File_System
+https://students.mimuw.edu.pl/SO/Projekt02-03/temat3-g1/ciach/tekst.html
+https://docs.microsoft.com/en-us/windows/win32/fileio/microsoft-smb-protocol-and-cifs-protocol-overview
+https://www.ionos.com/digitalguide/server/know-how/server-message-block-smb/
+https://edu.pjwstk.edu.pl/wyklady/sop/scb/wyklad12/wyklad.html
+
+https://computers.swanfallstech.com/computers/computer-networking/
+https://developer.ibm.com/tutorials/l-network-filesystems/

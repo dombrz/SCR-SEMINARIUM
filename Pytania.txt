@@ -1,0 +1,2 @@
+1.Wymień i krótko opisz jakie usługi zapewnia protokół NetBIOS.
+2.Jaki warunek musi być spełniony, aby nazwać rozproszony system plików przezroczystym?
